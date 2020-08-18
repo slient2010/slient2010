@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/slient2010-181717?style=flat-square&logo=Github&logoColor=fff)](https://github.com/slient2010)
 [![Email](https://img.shields.io/badge/os4uinfo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=fff)](mailto:os4uinfo@gmail.com)
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slient2010&show_icons=true&theme=tokyonight&hide_title=true&card_width=150" alt="slient2010's github stats" height="155px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient2010&theme=dracula&layout=compact&card_width=300" alt="slient2010's Top Langs" height="155px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=slient2010&show_icons=true&theme=tokyonight&hide_title=true&card_width=150" alt="slient2010's github stats" height="155px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient2010&theme=dracula&layout=compact&card_width=300" alt="slient2010's Top Langs" height="155px" />
 </div>
 
