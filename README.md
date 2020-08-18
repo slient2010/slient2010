@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slient2010&show_icons=true&theme=tokyonight&hide_title=true" alt="slient2010's github stats" height="195px" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient2010&theme=dracula&layout=compact&card_width=300" alt="slient2010's Top Langs" height="175px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slient2010&show_icons=true&theme=tokyonight&hide_title=true&card_width=100" alt="slient2010's github stats" height="155px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient2010&theme=dracula&layout=compact&card_width=200" alt="slient2010's Top Langs" height="155px" />
 </div>
 
