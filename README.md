@@ -35,3 +35,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slient2010&theme=dracula&layout=compact&card_width=300" alt="slient2010's Top Langs" height="155px" />
 </div>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=slient2010.slient2010" alt="visitor badge"/> 
