@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 **⚡ Every expert was once a beginner, my bro.**
 <br/>&ensp;&ensp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-343434?style=flat-square&logo=Angular&logoColor=F7DF1E)
 ![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=flat-square&logo=RxJS&logoColor=fff)
